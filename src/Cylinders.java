@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Cylinders {
 
-    private final ArrayList<Cylinder> cylinders;
+    private final List<Cylinder> cylinders;
 
     public Cylinders() {
         this.cylinders = new ArrayList<>();
