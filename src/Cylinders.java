@@ -1,8 +1,9 @@
+import java.util.List;
 import java.util.ArrayList;
 
 public class Cylinders {
 
-    public ArrayList<Cylinder> cylinders;
+    public List<Cylinder> cylinders;
 
     public ArrayList<Cylinder> getCylindres() {
         return cylinders;
